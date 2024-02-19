@@ -1,3 +1,6 @@
 [submodule "project-fair"]
 	path = project-fair
 	url = https://github.com/PrajwalVK7/ProjectFair_Frontend.git
+[submodule "pfServer"]
+	path = pfServer
+	url = https://github.com/PrajwalVK7/projectFair_server.git
